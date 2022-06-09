@@ -1,12 +1,12 @@
 {
     "homepage": "https://vita3k.org",
     "description": "PlayStation Vita emulator (Development)",
-    "version": "689619",
+    "version": "690077",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
             "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
-            "hash": "0b440536fe4700dd9a1d055187a47bcb5d5bcd6426098a4e749605dcb825c777"
+            "hash": "45644b4069bde00c9ca403651a86a3645524b71218abd43f9ab08170ab4e45f8"
         }
     },
     "pre_install": [
