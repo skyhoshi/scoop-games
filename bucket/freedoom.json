@@ -1,11 +1,11 @@
 {
     "homepage": "https://freedoom.github.io/",
     "description": "Free content replacements for Doom and Doom II single-player game",
-    "version": "0.12.0",
+    "version": "0.12.1",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.0/freedoom-0.12.0.zip",
-    "hash": "5722aa8c157ca49e445a30dd22837d53c32754956715ef6febf385489a816fde",
-    "extract_dir": "freedoom-0.12.0",
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip",
+    "hash": "f42c6810fc89b0282de1466c2c9c7c9818031a8d556256a6db1b69f6a77b5806",
+    "extract_dir": "freedoom-0.12.1",
     "installer": {
         "script": [
             "$dlFile = 'dl.zip'",
