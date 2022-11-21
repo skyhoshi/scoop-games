@@ -1,10 +1,10 @@
 {
     "homepage": "https://www.bzflag.org/",
     "description": "3D multiplayer tank battle game",
-    "version": "2.4.24",
+    "version": "2.4.26",
     "license": "MPL-2.0",
-    "url": "https://download.bzflag.org/bzflag/windows/2.4.24/bzflag-2.4.24.exe#/dl.7z",
-    "hash": "4b380c9e924a8c2f91ffff9270a76705a9763292d2df695296a598da9667a21f",
+    "url": "https://download.bzflag.org/bzflag/windows/2.4.26/bzflag-2.4.26.exe#/dl.7z",
+    "hash": "3c84287e41c4ed697f13a2116bdd05f11098d2c4e262be0f080e0c019edbd96b",
     "bin": "bzflag.exe",
     "shortcuts": [
         [
