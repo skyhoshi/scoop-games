@@ -2,15 +2,15 @@
     "homepage": "https://www.doomretro.com/",
     "description": "A classic redefined DOOM source port",
     "license": "GPL-3.0-or-later",
-    "version": "4.7",
+    "version": "4.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bradharding/doomretro/releases/download/v4.7/doomretro-4.7-win64.zip",
-            "hash": "c4affdd1b643ba2c5d29c328f228c6c51fbd38986dc589b05d9e041c7df9c2ff"
+            "url": "https://github.com/bradharding/doomretro/releases/download/v4.7.1/doomretro-4.7.1-win64.zip",
+            "hash": "06a5278e331f47528d5e73cb84aa19cc38eb969515b990037e2dac60163a0175"
         },
         "32bit": {
-            "url": "https://github.com/bradharding/doomretro/releases/download/v4.7/doomretro-4.7-win32.zip",
-            "hash": "76f539d3453b069fa9280051e05554a964ec67c6dfb9126283df97c3a06003b1"
+            "url": "https://github.com/bradharding/doomretro/releases/download/v4.7.1/doomretro-4.7.1-win32.zip",
+            "hash": "3fce829969a47c6d55debd3b11e1ff6f66a262ffd0eb67f763e15e093ba325b4"
         }
     },
     "pre_install": [
