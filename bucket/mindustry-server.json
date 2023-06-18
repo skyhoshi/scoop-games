@@ -1,10 +1,10 @@
 {
     "homepage": "https://mindustrygame.github.io/",
     "description": "Server-side program for Mindustry, a sandbox tower-defense game",
-    "version": "144",
+    "version": "145",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/Anuken/Mindustry/releases/download/v144/server-release.jar#/Mindustry-Server.jar",
-    "hash": "184ab18e9b98012e5542c7d876d4c9672aa973ca89dc82565e7630d6f3660f03",
+    "url": "https://github.com/Anuken/Mindustry/releases/download/v145/server-release.jar#/Mindustry-Server.jar",
+    "hash": "772581acdca9bfc81c97a17474afcf008c739a1ac8cff5c2e5ca64de0e0ff947",
     "bin": "mindustry-server.bat",
     "shortcuts": [
         [
