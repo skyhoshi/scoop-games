@@ -1,10 +1,10 @@
 {
     "homepage": "https://cxbx-reloaded.co.uk/",
     "description": "An emulator for running Xbox games on Microsoft Windows.",
-    "version": "0.2025.0410.2038",
+    "version": "0.2025.0413.1735",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-cada161/CxbxReloaded-Release-VS2019.zip",
-    "hash": "557b23041d55d09981fcfce4edc609388a9f0822da92894d81aa6480a8936565",
+    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-ec9934a/CxbxReloaded-Release-VS2019.zip",
+    "hash": "9916b5c6e6e381705ac00ab8360937ee5a8b80e4f8d5faf3bab5294335afb137",
     "pre_install": "if (!(Test-Path \"$persist_dir\\settings.ini\")) { $null = New-Item \"$dir\\settings.ini\" }",
     "persist": [
         "EmuDisk",
