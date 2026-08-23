@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/elishacloud/dxwrapper",
     "description": "Wrapper for legacy DirectX APIs to fix compatibility issues with old games",
-    "version": "1.7.8400.25",
+    "version": "1.8.8600.25",
     "license": "Zlib",
-    "url": "https://github.com/elishacloud/dxwrapper/releases/download/v1.7.8400.25/dxwrapper.zip",
-    "hash": "b66bfb085efa256aeca5e5b48ed44a05b62d9d8ee99a0e518ad26be7c4d37058",
+    "url": "https://github.com/elishacloud/dxwrapper/releases/download/v1.8.8600.25/dxwrapper.zip",
+    "hash": "3894368ebce69f348d08e189c2f0818c49aa3b18ad01e06348743bf6a29af97a",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/elishacloud/dxwrapper/releases/download/v$version/dxwrapper.zip"
