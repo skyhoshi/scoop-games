@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/doitsujin/dxvk",
     "description": "A Vulkan-based translation layer for Direct3D 9/10/11",
-    "version": "3.0.2",
+    "version": "3.1",
     "license": "Zlib",
-    "url": "https://github.com/doitsujin/dxvk/releases/download/v3.0.2/dxvk-3.0.2.tar.gz",
-    "hash": "9c538924110a7cdef871ca36dee218c0774124374ffdeb38af4b76be55bdf7c2",
+    "url": "https://github.com/doitsujin/dxvk/releases/download/v3.1/dxvk-3.1.tar.gz",
+    "hash": "30f9cc326874be344285582275446968cfa4c069db31ce56df312d6644179154",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/doitsujin/dxvk/releases/download/v$version/dxvk-$version.tar.gz"
