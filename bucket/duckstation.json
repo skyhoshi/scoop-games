@@ -2,11 +2,11 @@
     "homepage": "https://github.com/stenzek/duckstation/",
     "description": "A fast PlayStation 1 emulator for PC and Android",
     "license": "GPL-3.0-only",
-    "version": "20261006-g697599c",
+    "version": "20261011-g9cb25f7",
     "architecture": {
         "64bit": {
             "url": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-release.zip",
-            "hash": "4813f22823e6aa262c46a4a516f10b01e1e2ddf6fcea82763e359ef9ac812a9d"
+            "hash": "7e72b17e40bd0e217e5ea35ad65bc8c89166041c6cfd91287e753285f9d7014c"
         }
     },
     "installer": {
